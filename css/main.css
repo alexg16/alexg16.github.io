@@ -17,7 +17,7 @@ a {
     color: #999;
 }
 a:hover {
-   text-decoration: underline;
+    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
@@ -41,3 +41,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+Don't forget to commit the new CSS file!
